@@ -8,7 +8,7 @@ This is a repo containing the R code used to generate the RNAi screen results in
 
 **DOI:** 10.1101/2022.05.28.493845
 
-The code is mainly organized in two self-contained folders: `CRL-1474` containing the RNAi screen data for the hTERT-CRL-1474 fibroblast cell line, and `MCF10A`, respectively. 
+The code is mainly organized in two self-contained folders: `CRL-1474` containing the RNAi screen data for the hTERT-CRL-1474 fibroblast cell line, and `MCF10AT`, respectively. 
 
 Each of these folders contains:
 
