@@ -1,0 +1,74 @@
+---
+title: "Thermo Fisher siSilencer Select hEpigenetics/NucEnvelope siRNA Library Reshape
+  and cellHTS2 metanalysis"
+author: "Gianluca Pegoraro"
+date: "Sep 12, 2016"
+output:
+  html_document: default
+  html_notebook: default
+---
+
+
+```{r}
+library(plyr)
+library(ggplot2)
+library(stringr)
+library(knitr)
+library(data.table)
+library(cellHTS2)
+library(ggthemes)
+library(ggrepel)
+```
+
+```{r}
+opts_chunk$set(fig.path='Meta_R_Output/', dev=c("png"), fig.width = 12, fig.height = 6, message=FALSE, warning=FALSE)
+```
+
+
+```{r}
+roundness <- fread("cellHTS2_output_Nuclei Selected - Nucleus Roundness - Mean per Well/Results_median.txt")
+viability <- fread("cellHTS2_output_Nuclei Selected - Number of Objects/Results_median.txt")
+area <- fread("cellHTS2_output_Nuclei Selected - Nucleus Area [µm²] - Mean per Well/Results_median.txt")
+
+setkey(roundness, GeneID)
+setkey(viability, GeneID)
+setkey(area, GeneID)
+
+r_vs_v <- roundness[viability,]
+a_vs_v <- area[viability,]
+
+r_vs_v[, Status := ifelse(median_score <= -2 & i.median_score >= -1, "Hit", "Non-Hit")]
+a_vs_v[, Status := ifelse(median_score >= 2 & i.median_score >= -1, "Hit", "Non-Hit")]
+```
+
+```{r rVsV}
+ggplot(r_vs_v, aes(x = median_score, y = i.median_score, color = Status)) + 
+    geom_point() + 
+    scale_x_reverse() +
+    theme_solarized(light = F) +
+    scale_color_solarized("red") +
+    xlab("Med. Roundness Z-score") +
+    ylab("Med. Viability Z-score") +
+    geom_text_repel(color = "grey80",
+    data = r_vs_v[median_score <= -2 & i.median_score >= -1,],
+    aes(label = GeneSymbol),
+    size = 3,
+    box.padding = unit(0.35, "lines"),
+    point.padding = unit(0.3, "lines")
+  )
+```
+```{r aVsV}
+ggplot(a_vs_v, aes(x = median_score, y = i.median_score, color = Status)) + 
+    geom_point() + 
+    theme_solarized(light = F) +
+    scale_color_solarized("red") +
+    xlab("Med. Area Z-score") +
+    ylab("Med. Viability Z-score") +
+    geom_text_repel(color = "grey80",
+    data = a_vs_v[(median_score >= 2 & i.median_score >= -1) | (median_score <= -2 & i.median_score >= -1) ,],
+    aes(label = GeneSymbol),
+    size = 3,
+    box.padding = unit(0.35, "lines"),
+    point.padding = unit(0.3, "lines")
+  )
+```

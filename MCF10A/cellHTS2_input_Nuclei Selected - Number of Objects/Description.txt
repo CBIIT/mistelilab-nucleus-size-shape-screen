@@ -1,0 +1,31 @@
+[Lab description]
+Experimenter name: <put here the experimenter name>
+Laboratory: <put here the name of the laboratory where the experiment was conducted>
+Contact information: <put here contact information for lab and/or experimenter>
+
+[Screen description]
+Screen: <put here the screen name>
+Title: <put there the single-sentence giving the experiment title>
+Version: <put here the screen version>
+Date: <put here the date when the experiment was performed>
+Screentype: <put here the type of screen>
+Organism:
+Celltype:
+Library:
+Assay: <put here the name of the assay>
+Assaytype: <put here the type of assay>
+Assaydescription: <put here the description of the assay>
+
+[Publication description]
+Publicationtitle:
+Reference:
+PMIDs: <put here the PubMed identifiers of papers relevant to the dataset>
+URL: <put here the URL for the experiment>
+License:
+Abstract: <put here the abstract describing the experiment>
+
+[Files]
+plateList: <put the name of the plate result list file>
+annotation: <put the name of the screen library annotation file>
+plateConf: <put the name of the screen plate configuration file>
+screenLog: <put the name of screen log file, if available>

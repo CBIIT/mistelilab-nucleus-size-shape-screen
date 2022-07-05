@@ -1,0 +1,601 @@
+UserName,TestId,TestName,TestDateTime,OperationId,OpTime,ProcName,Tip,SampleId,Rack,Well,SrcRack,SrcWell,Volume,ErrorText,Response Text
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,33,149,Single Liquid_1,1,1,HT00009,A23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,35,149,Single Liquid_1,2,1,HT00009,C23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,37,149,Single Liquid_1,3,1,HT00009,E23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,39,149,Single Liquid_1,4,1,HT00009,G23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,41,149,Single Liquid_1,5,1,HT00009,I23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,43,149,Single Liquid_1,6,1,HT00009,K23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,45,149,Single Liquid_1,7,1,HT00009,M23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,47,149,Single Liquid_1,8,1,HT00009,O23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,65,189,Single Liquid_1,1,1,HT00009,A23,HT00009,A23,10,Not enough liquid detected in tip 1 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,66,189,Single Liquid_1,2,1,HT00009,C23,HT00009,C23,10,Not enough liquid detected in tip 2 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,67,189,Single Liquid_1,3,1,HT00009,E23,HT00009,E23,10,Not enough liquid detected in tip 3 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,68,189,Single Liquid_1,4,1,HT00009,G23,HT00009,G23,10,Not enough liquid detected in tip 4 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,69,189,Single Liquid_1,5,1,HT00009,I23,HT00009,I23,10,Not enough liquid detected in tip 5 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,70,189,Single Liquid_1,6,1,HT00009,K23,HT00009,K23,10,Not enough liquid detected in tip 6 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,71,189,Single Liquid_1,7,1,HT00009,M23,HT00009,M23,10,Not enough liquid detected in tip 7 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,72,189,Single Liquid_1,8,1,HT00009,O23,HT00009,O23,10,Not enough liquid detected in tip 8 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,81,192,Single Liquid_1,1,1,HT00009,A23,HT00009,A23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,82,192,Single Liquid_1,2,1,HT00009,C23,HT00009,C23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,83,192,Single Liquid_1,3,1,HT00009,E23,HT00009,E23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,84,192,Single Liquid_1,4,1,HT00009,G23,HT00009,G23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,85,192,Single Liquid_1,5,1,HT00009,I23,HT00009,I23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,86,192,Single Liquid_1,6,1,HT00009,K23,HT00009,K23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,87,192,Single Liquid_1,7,1,HT00009,M23,HT00009,M23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,88,192,Single Liquid_1,8,1,HT00009,O23,HT00009,O23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,97,196,Single Liquid_1,1,1,HT00009,A23,HT00009,A23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,98,196,Single Liquid_1,2,1,HT00009,C23,HT00009,C23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,99,196,Single Liquid_1,3,1,HT00009,E23,HT00009,E23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,100,196,Single Liquid_1,4,1,HT00009,G23,HT00009,G23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,101,196,Single Liquid_1,5,1,HT00009,I23,HT00009,I23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,102,196,Single Liquid_1,6,1,HT00009,K23,HT00009,K23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,103,196,Single Liquid_1,7,1,HT00009,M23,HT00009,M23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,104,196,Single Liquid_1,8,1,HT00009,O23,HT00009,O23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,113,199,Single Liquid_1,1,1,HT00009,A23,HT00009,A23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,114,199,Single Liquid_1,2,1,HT00009,C23,HT00009,C23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,115,199,Single Liquid_1,3,1,HT00009,E23,HT00009,E23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,116,199,Single Liquid_1,4,1,HT00009,G23,HT00009,G23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,117,199,Single Liquid_1,5,1,HT00009,I23,HT00009,I23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,118,199,Single Liquid_1,6,1,HT00009,K23,HT00009,K23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,119,199,Single Liquid_1,7,1,HT00009,M23,HT00009,M23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,120,199,Single Liquid_1,8,1,HT00009,O23,HT00009,O23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,177,286,Single Liquid_1,1,2,HT00009,B23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,179,286,Single Liquid_1,2,2,HT00009,D23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,181,286,Single Liquid_1,3,2,HT00009,F23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,183,286,Single Liquid_1,4,2,HT00009,H23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,185,286,Single Liquid_1,5,2,HT00009,J23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,187,286,Single Liquid_1,6,2,HT00009,L23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,189,286,Single Liquid_1,7,2,HT00009,N23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,191,286,Single Liquid_1,8,2,HT00009,P23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,209,302,Single Liquid_1,1,2,HT00009,B23,HT00009,B23,10,Not enough liquid detected in tip 1 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,210,302,Single Liquid_1,2,2,HT00009,D23,HT00009,D23,10,Not enough liquid detected in tip 2 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,211,302,Single Liquid_1,3,2,HT00009,F23,HT00009,F23,10,Not enough liquid detected in tip 3 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,212,302,Single Liquid_1,4,2,HT00009,H23,HT00009,H23,10,Not enough liquid detected in tip 4 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,213,302,Single Liquid_1,5,2,HT00009,J23,HT00009,J23,10,Not enough liquid detected in tip 5 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,214,302,Single Liquid_1,6,2,HT00009,L23,HT00009,L23,10,Not enough liquid detected in tip 6 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,215,302,Single Liquid_1,7,2,HT00009,N23,HT00009,N23,10,Not enough liquid detected in tip 7 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,216,302,Single Liquid_1,8,2,HT00009,P23,HT00009,P23,10,Not enough liquid detected in tip 8 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,225,305,Single Liquid_1,1,2,HT00009,B23,HT00009,B23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,226,305,Single Liquid_1,2,2,HT00009,D23,HT00009,D23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,227,305,Single Liquid_1,3,2,HT00009,F23,HT00009,F23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,228,305,Single Liquid_1,4,2,HT00009,H23,HT00009,H23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,229,305,Single Liquid_1,5,2,HT00009,J23,HT00009,J23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,230,305,Single Liquid_1,6,2,HT00009,L23,HT00009,L23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,231,305,Single Liquid_1,7,2,HT00009,N23,HT00009,N23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,232,305,Single Liquid_1,8,2,HT00009,P23,HT00009,P23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,241,308,Single Liquid_1,1,2,HT00009,B23,HT00009,B23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,242,308,Single Liquid_1,2,2,HT00009,D23,HT00009,D23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,243,308,Single Liquid_1,3,2,HT00009,F23,HT00009,F23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,244,308,Single Liquid_1,4,2,HT00009,H23,HT00009,H23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,245,308,Single Liquid_1,5,2,HT00009,J23,HT00009,J23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,246,308,Single Liquid_1,6,2,HT00009,L23,HT00009,L23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,247,308,Single Liquid_1,7,2,HT00009,N23,HT00009,N23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,248,308,Single Liquid_1,8,2,HT00009,P23,HT00009,P23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,257,312,Single Liquid_1,1,2,HT00009,B23,HT00009,B23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,258,312,Single Liquid_1,2,2,HT00009,D23,HT00009,D23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,259,312,Single Liquid_1,3,2,HT00009,F23,HT00009,F23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,260,312,Single Liquid_1,4,2,HT00009,H23,HT00009,H23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,261,312,Single Liquid_1,5,2,HT00009,J23,HT00009,J23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,262,312,Single Liquid_1,6,2,HT00009,L23,HT00009,L23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,263,312,Single Liquid_1,7,2,HT00009,N23,HT00009,N23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,264,312,Single Liquid_1,8,2,HT00009,P23,HT00009,P23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,321,398,Single Liquid_1,1,3,HT00009,A24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,323,398,Single Liquid_1,2,3,HT00009,C24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,325,398,Single Liquid_1,3,3,HT00009,E24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,327,398,Single Liquid_1,4,3,HT00009,G24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,329,398,Single Liquid_1,5,3,HT00009,I24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,331,398,Single Liquid_1,6,3,HT00009,K24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,333,398,Single Liquid_1,7,3,HT00009,M24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,335,398,Single Liquid_1,8,3,HT00009,O24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,353,419,Single Liquid_1,1,3,HT00009,A24,HT00009,A24,10,Not enough liquid detected in tip 1 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,354,419,Single Liquid_1,2,3,HT00009,C24,HT00009,C24,10,Not enough liquid detected in tip 2 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,355,419,Single Liquid_1,3,3,HT00009,E24,HT00009,E24,10,Not enough liquid detected in tip 3 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,356,419,Single Liquid_1,4,3,HT00009,G24,HT00009,G24,10,Not enough liquid detected in tip 4 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,357,419,Single Liquid_1,5,3,HT00009,I24,HT00009,I24,10,Not enough liquid detected in tip 5 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,358,419,Single Liquid_1,6,3,HT00009,K24,HT00009,K24,10,Not enough liquid detected in tip 6 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,359,419,Single Liquid_1,7,3,HT00009,M24,HT00009,M24,10,Not enough liquid detected in tip 7 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,360,419,Single Liquid_1,8,3,HT00009,O24,HT00009,O24,10,Not enough liquid detected in tip 8 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,369,422,Single Liquid_1,1,3,HT00009,A24,HT00009,A24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,370,422,Single Liquid_1,2,3,HT00009,C24,HT00009,C24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,371,422,Single Liquid_1,3,3,HT00009,E24,HT00009,E24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,372,422,Single Liquid_1,4,3,HT00009,G24,HT00009,G24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,373,422,Single Liquid_1,5,3,HT00009,I24,HT00009,I24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,374,422,Single Liquid_1,6,3,HT00009,K24,HT00009,K24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,375,422,Single Liquid_1,7,3,HT00009,M24,HT00009,M24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,376,422,Single Liquid_1,8,3,HT00009,O24,HT00009,O24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,385,425,Single Liquid_1,1,3,HT00009,A24,HT00009,A24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,386,425,Single Liquid_1,2,3,HT00009,C24,HT00009,C24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,387,425,Single Liquid_1,3,3,HT00009,E24,HT00009,E24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,388,425,Single Liquid_1,4,3,HT00009,G24,HT00009,G24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,389,425,Single Liquid_1,5,3,HT00009,I24,HT00009,I24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,390,425,Single Liquid_1,6,3,HT00009,K24,HT00009,K24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,391,425,Single Liquid_1,7,3,HT00009,M24,HT00009,M24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,392,425,Single Liquid_1,8,3,HT00009,O24,HT00009,O24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,401,429,Single Liquid_1,1,3,HT00009,A24,HT00009,A24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,402,429,Single Liquid_1,2,3,HT00009,C24,HT00009,C24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,403,429,Single Liquid_1,3,3,HT00009,E24,HT00009,E24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,404,429,Single Liquid_1,4,3,HT00009,G24,HT00009,G24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,405,429,Single Liquid_1,5,3,HT00009,I24,HT00009,I24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,406,429,Single Liquid_1,6,3,HT00009,K24,HT00009,K24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,407,429,Single Liquid_1,7,3,HT00009,M24,HT00009,M24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,408,429,Single Liquid_1,8,3,HT00009,O24,HT00009,O24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,465,514,Single Liquid_1,1,4,HT00009,B24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,467,514,Single Liquid_1,2,4,HT00009,D24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,469,514,Single Liquid_1,3,4,HT00009,F24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,471,514,Single Liquid_1,4,4,HT00009,H24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,473,514,Single Liquid_1,5,4,HT00009,J24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,475,514,Single Liquid_1,6,4,HT00009,L24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,477,514,Single Liquid_1,7,4,HT00009,N24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,479,514,Single Liquid_1,8,4,HT00009,P24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,497,574,Single Liquid_1,1,4,HT00009,B24,HT00009,B24,10,Not enough liquid detected in tip 1 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,498,574,Single Liquid_1,2,4,HT00009,D24,HT00009,D24,10,Not enough liquid detected in tip 2 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,499,574,Single Liquid_1,3,4,HT00009,F24,HT00009,F24,10,Not enough liquid detected in tip 3 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,500,574,Single Liquid_1,4,4,HT00009,H24,HT00009,H24,10,Not enough liquid detected in tip 4 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,501,574,Single Liquid_1,5,4,HT00009,J24,HT00009,J24,10,Not enough liquid detected in tip 5 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,502,574,Single Liquid_1,6,4,HT00009,L24,HT00009,L24,10,Not enough liquid detected in tip 6 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,503,574,Single Liquid_1,7,4,HT00009,N24,HT00009,N24,10,Not enough liquid detected in tip 7 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,504,574,Single Liquid_1,8,4,HT00009,P24,HT00009,P24,10,Not enough liquid detected in tip 8 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,513,578,Single Liquid_1,1,4,HT00009,B24,HT00009,B24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,514,578,Single Liquid_1,2,4,HT00009,D24,HT00009,D24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,515,578,Single Liquid_1,3,4,HT00009,F24,HT00009,F24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,516,578,Single Liquid_1,4,4,HT00009,H24,HT00009,H24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,517,578,Single Liquid_1,5,4,HT00009,J24,HT00009,J24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,518,578,Single Liquid_1,6,4,HT00009,L24,HT00009,L24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,519,578,Single Liquid_1,7,4,HT00009,N24,HT00009,N24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,520,578,Single Liquid_1,8,4,HT00009,P24,HT00009,P24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,529,581,Single Liquid_1,1,4,HT00009,B24,HT00009,B24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,530,581,Single Liquid_1,2,4,HT00009,D24,HT00009,D24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,531,581,Single Liquid_1,3,4,HT00009,F24,HT00009,F24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,532,581,Single Liquid_1,4,4,HT00009,H24,HT00009,H24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,533,581,Single Liquid_1,5,4,HT00009,J24,HT00009,J24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,534,581,Single Liquid_1,6,4,HT00009,L24,HT00009,L24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,535,581,Single Liquid_1,7,4,HT00009,N24,HT00009,N24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,536,581,Single Liquid_1,8,4,HT00009,P24,HT00009,P24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,545,585,Single Liquid_1,1,4,HT00009,B24,HT00009,B24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,546,585,Single Liquid_1,2,4,HT00009,D24,HT00009,D24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,547,585,Single Liquid_1,3,4,HT00009,F24,HT00009,F24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,548,585,Single Liquid_1,4,4,HT00009,H24,HT00009,H24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,549,585,Single Liquid_1,5,4,HT00009,J24,HT00009,J24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,550,585,Single Liquid_1,6,4,HT00009,L24,HT00009,L24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,551,585,Single Liquid_1,7,4,HT00009,N24,HT00009,N24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,552,585,Single Liquid_1,8,4,HT00009,P24,HT00009,P24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,609,671,Single Liquid_1,1,1,HT00012,A23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,611,671,Single Liquid_1,2,1,HT00012,C23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,613,671,Single Liquid_1,3,1,HT00012,E23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,615,671,Single Liquid_1,4,1,HT00012,G23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,617,671,Single Liquid_1,5,1,HT00012,I23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,619,671,Single Liquid_1,6,1,HT00012,K23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,621,671,Single Liquid_1,7,1,HT00012,M23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,623,671,Single Liquid_1,8,1,HT00012,O23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,641,685,Single Liquid_1,1,1,HT00012,A23,HT00012,A23,10,Not enough liquid detected in tip 1 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,642,685,Single Liquid_1,2,1,HT00012,C23,HT00012,C23,10,Not enough liquid detected in tip 2 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,643,685,Single Liquid_1,3,1,HT00012,E23,HT00012,E23,10,Not enough liquid detected in tip 3 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,644,685,Single Liquid_1,4,1,HT00012,G23,HT00012,G23,10,Not enough liquid detected in tip 4 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,645,685,Single Liquid_1,5,1,HT00012,I23,HT00012,I23,10,Not enough liquid detected in tip 5 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,646,685,Single Liquid_1,6,1,HT00012,K23,HT00012,K23,10,Not enough liquid detected in tip 6 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,647,685,Single Liquid_1,7,1,HT00012,M23,HT00012,M23,10,Not enough liquid detected in tip 7 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,648,685,Single Liquid_1,8,1,HT00012,O23,HT00012,O23,10,Not enough liquid detected in tip 8 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,657,688,Single Liquid_1,1,1,HT00012,A23,HT00012,A23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,658,688,Single Liquid_1,2,1,HT00012,C23,HT00012,C23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,659,688,Single Liquid_1,3,1,HT00012,E23,HT00012,E23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,660,688,Single Liquid_1,4,1,HT00012,G23,HT00012,G23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,661,688,Single Liquid_1,5,1,HT00012,I23,HT00012,I23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,662,688,Single Liquid_1,6,1,HT00012,K23,HT00012,K23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,663,688,Single Liquid_1,7,1,HT00012,M23,HT00012,M23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,664,688,Single Liquid_1,8,1,HT00012,O23,HT00012,O23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,673,691,Single Liquid_1,1,1,HT00012,A23,HT00012,A23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,674,691,Single Liquid_1,2,1,HT00012,C23,HT00012,C23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,675,691,Single Liquid_1,3,1,HT00012,E23,HT00012,E23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,676,691,Single Liquid_1,4,1,HT00012,G23,HT00012,G23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,677,691,Single Liquid_1,5,1,HT00012,I23,HT00012,I23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,678,691,Single Liquid_1,6,1,HT00012,K23,HT00012,K23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,679,691,Single Liquid_1,7,1,HT00012,M23,HT00012,M23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,680,691,Single Liquid_1,8,1,HT00012,O23,HT00012,O23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,689,695,Single Liquid_1,1,1,HT00012,A23,HT00012,A23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,690,695,Single Liquid_1,2,1,HT00012,C23,HT00012,C23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,691,695,Single Liquid_1,3,1,HT00012,E23,HT00012,E23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,692,695,Single Liquid_1,4,1,HT00012,G23,HT00012,G23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,693,695,Single Liquid_1,5,1,HT00012,I23,HT00012,I23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,694,695,Single Liquid_1,6,1,HT00012,K23,HT00012,K23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,695,695,Single Liquid_1,7,1,HT00012,M23,HT00012,M23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,696,695,Single Liquid_1,8,1,HT00012,O23,HT00012,O23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,753,780,Single Liquid_1,1,2,HT00012,B23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,755,780,Single Liquid_1,2,2,HT00012,D23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,757,780,Single Liquid_1,3,2,HT00012,F23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,759,780,Single Liquid_1,4,2,HT00012,H23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,761,780,Single Liquid_1,5,2,HT00012,J23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,763,780,Single Liquid_1,6,2,HT00012,L23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,765,780,Single Liquid_1,7,2,HT00012,N23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,767,780,Single Liquid_1,8,2,HT00012,P23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,785,793,Single Liquid_1,1,2,HT00012,B23,HT00012,B23,10,Not enough liquid detected in tip 1 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,786,793,Single Liquid_1,2,2,HT00012,D23,HT00012,D23,10,Not enough liquid detected in tip 2 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,787,793,Single Liquid_1,3,2,HT00012,F23,HT00012,F23,10,Not enough liquid detected in tip 3 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,788,793,Single Liquid_1,4,2,HT00012,H23,HT00012,H23,10,Not enough liquid detected in tip 4 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,789,793,Single Liquid_1,5,2,HT00012,J23,HT00012,J23,10,Not enough liquid detected in tip 5 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,790,793,Single Liquid_1,6,2,HT00012,L23,HT00012,L23,10,Not enough liquid detected in tip 6 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,791,793,Single Liquid_1,7,2,HT00012,N23,HT00012,N23,10,Not enough liquid detected in tip 7 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,792,793,Single Liquid_1,8,2,HT00012,P23,HT00012,P23,10,Not enough liquid detected in tip 8 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,801,797,Single Liquid_1,1,2,HT00012,B23,HT00012,B23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,802,797,Single Liquid_1,2,2,HT00012,D23,HT00012,D23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,803,797,Single Liquid_1,3,2,HT00012,F23,HT00012,F23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,804,797,Single Liquid_1,4,2,HT00012,H23,HT00012,H23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,805,797,Single Liquid_1,5,2,HT00012,J23,HT00012,J23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,806,797,Single Liquid_1,6,2,HT00012,L23,HT00012,L23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,807,797,Single Liquid_1,7,2,HT00012,N23,HT00012,N23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,808,797,Single Liquid_1,8,2,HT00012,P23,HT00012,P23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,817,800,Single Liquid_1,1,2,HT00012,B23,HT00012,B23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,818,800,Single Liquid_1,2,2,HT00012,D23,HT00012,D23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,819,800,Single Liquid_1,3,2,HT00012,F23,HT00012,F23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,820,800,Single Liquid_1,4,2,HT00012,H23,HT00012,H23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,821,800,Single Liquid_1,5,2,HT00012,J23,HT00012,J23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,822,800,Single Liquid_1,6,2,HT00012,L23,HT00012,L23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,823,800,Single Liquid_1,7,2,HT00012,N23,HT00012,N23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,824,800,Single Liquid_1,8,2,HT00012,P23,HT00012,P23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,833,804,Single Liquid_1,1,2,HT00012,B23,HT00012,B23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,834,804,Single Liquid_1,2,2,HT00012,D23,HT00012,D23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,835,804,Single Liquid_1,3,2,HT00012,F23,HT00012,F23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,836,804,Single Liquid_1,4,2,HT00012,H23,HT00012,H23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,837,804,Single Liquid_1,5,2,HT00012,J23,HT00012,J23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,838,804,Single Liquid_1,6,2,HT00012,L23,HT00012,L23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,839,804,Single Liquid_1,7,2,HT00012,N23,HT00012,N23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,840,804,Single Liquid_1,8,2,HT00012,P23,HT00012,P23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,897,889,Single Liquid_1,1,3,HT00012,A24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,899,889,Single Liquid_1,2,3,HT00012,C24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,901,889,Single Liquid_1,3,3,HT00012,E24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,903,889,Single Liquid_1,4,3,HT00012,G24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,905,889,Single Liquid_1,5,3,HT00012,I24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,907,889,Single Liquid_1,6,3,HT00012,K24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,909,889,Single Liquid_1,7,3,HT00012,M24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,911,889,Single Liquid_1,8,3,HT00012,O24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,929,904,Single Liquid_1,1,3,HT00012,A24,HT00012,A24,10,Not enough liquid detected in tip 1 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,930,904,Single Liquid_1,2,3,HT00012,C24,HT00012,C24,10,Not enough liquid detected in tip 2 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,931,904,Single Liquid_1,3,3,HT00012,E24,HT00012,E24,10,Not enough liquid detected in tip 3 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,932,904,Single Liquid_1,4,3,HT00012,G24,HT00012,G24,10,Not enough liquid detected in tip 4 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,933,904,Single Liquid_1,5,3,HT00012,I24,HT00012,I24,10,Not enough liquid detected in tip 5 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,934,904,Single Liquid_1,6,3,HT00012,K24,HT00012,K24,10,Not enough liquid detected in tip 6 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,935,904,Single Liquid_1,7,3,HT00012,M24,HT00012,M24,10,Not enough liquid detected in tip 7 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,936,904,Single Liquid_1,8,3,HT00012,O24,HT00012,O24,10,Not enough liquid detected in tip 8 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,945,907,Single Liquid_1,1,3,HT00012,A24,HT00012,A24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,946,907,Single Liquid_1,2,3,HT00012,C24,HT00012,C24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,947,907,Single Liquid_1,3,3,HT00012,E24,HT00012,E24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,948,907,Single Liquid_1,4,3,HT00012,G24,HT00012,G24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,949,907,Single Liquid_1,5,3,HT00012,I24,HT00012,I24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,950,907,Single Liquid_1,6,3,HT00012,K24,HT00012,K24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,951,907,Single Liquid_1,7,3,HT00012,M24,HT00012,M24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,952,907,Single Liquid_1,8,3,HT00012,O24,HT00012,O24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,961,911,Single Liquid_1,1,3,HT00012,A24,HT00012,A24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,962,911,Single Liquid_1,2,3,HT00012,C24,HT00012,C24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,963,911,Single Liquid_1,3,3,HT00012,E24,HT00012,E24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,964,911,Single Liquid_1,4,3,HT00012,G24,HT00012,G24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,965,911,Single Liquid_1,5,3,HT00012,I24,HT00012,I24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,966,911,Single Liquid_1,6,3,HT00012,K24,HT00012,K24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,967,911,Single Liquid_1,7,3,HT00012,M24,HT00012,M24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,968,911,Single Liquid_1,8,3,HT00012,O24,HT00012,O24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,977,915,Single Liquid_1,1,3,HT00012,A24,HT00012,A24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,978,915,Single Liquid_1,2,3,HT00012,C24,HT00012,C24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,979,915,Single Liquid_1,3,3,HT00012,E24,HT00012,E24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,980,915,Single Liquid_1,4,3,HT00012,G24,HT00012,G24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,981,915,Single Liquid_1,5,3,HT00012,I24,HT00012,I24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,982,915,Single Liquid_1,6,3,HT00012,K24,HT00012,K24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,983,915,Single Liquid_1,7,3,HT00012,M24,HT00012,M24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,984,915,Single Liquid_1,8,3,HT00012,O24,HT00012,O24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1041,999,Single Liquid_1,1,4,HT00012,B24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1043,999,Single Liquid_1,2,4,HT00012,D24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1045,999,Single Liquid_1,3,4,HT00012,F24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1047,999,Single Liquid_1,4,4,HT00012,H24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1049,999,Single Liquid_1,5,4,HT00012,J24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1051,999,Single Liquid_1,6,4,HT00012,L24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1053,999,Single Liquid_1,7,4,HT00012,N24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1055,999,Single Liquid_1,8,4,HT00012,P24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1073,1021,Single Liquid_1,1,4,HT00012,B24,HT00012,B24,10,Not enough liquid detected in tip 1 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1074,1021,Single Liquid_1,2,4,HT00012,D24,HT00012,D24,10,Not enough liquid detected in tip 2 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1075,1021,Single Liquid_1,3,4,HT00012,F24,HT00012,F24,10,Not enough liquid detected in tip 3 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1076,1021,Single Liquid_1,4,4,HT00012,H24,HT00012,H24,10,Not enough liquid detected in tip 4 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1077,1021,Single Liquid_1,5,4,HT00012,J24,HT00012,J24,10,Not enough liquid detected in tip 5 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1078,1021,Single Liquid_1,6,4,HT00012,L24,HT00012,L24,10,Not enough liquid detected in tip 6 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1079,1021,Single Liquid_1,7,4,HT00012,N24,HT00012,N24,10,Not enough liquid detected in tip 7 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1080,1021,Single Liquid_1,8,4,HT00012,P24,HT00012,P24,10,Not enough liquid detected in tip 8 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1089,1025,Single Liquid_1,1,4,HT00012,B24,HT00012,B24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1090,1025,Single Liquid_1,2,4,HT00012,D24,HT00012,D24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1091,1025,Single Liquid_1,3,4,HT00012,F24,HT00012,F24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1092,1025,Single Liquid_1,4,4,HT00012,H24,HT00012,H24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1093,1025,Single Liquid_1,5,4,HT00012,J24,HT00012,J24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1094,1025,Single Liquid_1,6,4,HT00012,L24,HT00012,L24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1095,1025,Single Liquid_1,7,4,HT00012,N24,HT00012,N24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1096,1025,Single Liquid_1,8,4,HT00012,P24,HT00012,P24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1105,1028,Single Liquid_1,1,4,HT00012,B24,HT00012,B24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1106,1028,Single Liquid_1,2,4,HT00012,D24,HT00012,D24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1107,1028,Single Liquid_1,3,4,HT00012,F24,HT00012,F24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1108,1028,Single Liquid_1,4,4,HT00012,H24,HT00012,H24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1109,1028,Single Liquid_1,5,4,HT00012,J24,HT00012,J24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1110,1028,Single Liquid_1,6,4,HT00012,L24,HT00012,L24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1111,1028,Single Liquid_1,7,4,HT00012,N24,HT00012,N24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1112,1028,Single Liquid_1,8,4,HT00012,P24,HT00012,P24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1121,1032,Single Liquid_1,1,4,HT00012,B24,HT00012,B24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1122,1032,Single Liquid_1,2,4,HT00012,D24,HT00012,D24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1123,1032,Single Liquid_1,3,4,HT00012,F24,HT00012,F24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1124,1032,Single Liquid_1,4,4,HT00012,H24,HT00012,H24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1125,1032,Single Liquid_1,5,4,HT00012,J24,HT00012,J24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1126,1032,Single Liquid_1,6,4,HT00012,L24,HT00012,L24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1127,1032,Single Liquid_1,7,4,HT00012,N24,HT00012,N24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1128,1032,Single Liquid_1,8,4,HT00012,P24,HT00012,P24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1185,1115,Single Liquid_1,1,1,HT00015,A23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1187,1115,Single Liquid_1,2,1,HT00015,C23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1189,1115,Single Liquid_1,3,1,HT00015,E23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1191,1115,Single Liquid_1,4,1,HT00015,G23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1193,1115,Single Liquid_1,5,1,HT00015,I23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1195,1115,Single Liquid_1,6,1,HT00015,K23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1197,1115,Single Liquid_1,7,1,HT00015,M23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1199,1115,Single Liquid_1,8,1,HT00015,O23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1217,1130,Single Liquid_1,1,1,HT00015,A23,HT00015,A23,10,Not enough liquid detected in tip 1 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1218,1130,Single Liquid_1,2,1,HT00015,C23,HT00015,C23,10,Not enough liquid detected in tip 2 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1219,1130,Single Liquid_1,3,1,HT00015,E23,HT00015,E23,10,Not enough liquid detected in tip 3 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1220,1130,Single Liquid_1,4,1,HT00015,G23,HT00015,G23,10,Not enough liquid detected in tip 4 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1221,1130,Single Liquid_1,5,1,HT00015,I23,HT00015,I23,10,Not enough liquid detected in tip 5 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1222,1130,Single Liquid_1,6,1,HT00015,K23,HT00015,K23,10,Not enough liquid detected in tip 6 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1223,1130,Single Liquid_1,7,1,HT00015,M23,HT00015,M23,10,Not enough liquid detected in tip 7 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1224,1130,Single Liquid_1,8,1,HT00015,O23,HT00015,O23,10,Not enough liquid detected in tip 8 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1233,1133,Single Liquid_1,1,1,HT00015,A23,HT00015,A23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1234,1133,Single Liquid_1,2,1,HT00015,C23,HT00015,C23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1235,1133,Single Liquid_1,3,1,HT00015,E23,HT00015,E23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1236,1133,Single Liquid_1,4,1,HT00015,G23,HT00015,G23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1237,1133,Single Liquid_1,5,1,HT00015,I23,HT00015,I23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1238,1133,Single Liquid_1,6,1,HT00015,K23,HT00015,K23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1239,1133,Single Liquid_1,7,1,HT00015,M23,HT00015,M23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1240,1133,Single Liquid_1,8,1,HT00015,O23,HT00015,O23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1249,1137,Single Liquid_1,1,1,HT00015,A23,HT00015,A23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1250,1137,Single Liquid_1,2,1,HT00015,C23,HT00015,C23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1251,1137,Single Liquid_1,3,1,HT00015,E23,HT00015,E23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1252,1137,Single Liquid_1,4,1,HT00015,G23,HT00015,G23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1253,1137,Single Liquid_1,5,1,HT00015,I23,HT00015,I23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1254,1137,Single Liquid_1,6,1,HT00015,K23,HT00015,K23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1255,1137,Single Liquid_1,7,1,HT00015,M23,HT00015,M23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1256,1137,Single Liquid_1,8,1,HT00015,O23,HT00015,O23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1265,1141,Single Liquid_1,1,1,HT00015,A23,HT00015,A23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1266,1141,Single Liquid_1,2,1,HT00015,C23,HT00015,C23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1267,1141,Single Liquid_1,3,1,HT00015,E23,HT00015,E23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1268,1141,Single Liquid_1,4,1,HT00015,G23,HT00015,G23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1269,1141,Single Liquid_1,5,1,HT00015,I23,HT00015,I23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1270,1141,Single Liquid_1,6,1,HT00015,K23,HT00015,K23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1271,1141,Single Liquid_1,7,1,HT00015,M23,HT00015,M23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1272,1141,Single Liquid_1,8,1,HT00015,O23,HT00015,O23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1329,1225,Single Liquid_1,1,2,HT00015,B23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1331,1225,Single Liquid_1,2,2,HT00015,D23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1333,1225,Single Liquid_1,3,2,HT00015,F23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1335,1225,Single Liquid_1,4,2,HT00015,H23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1337,1225,Single Liquid_1,5,2,HT00015,J23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1339,1225,Single Liquid_1,6,2,HT00015,L23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1341,1225,Single Liquid_1,7,2,HT00015,N23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1343,1225,Single Liquid_1,8,2,HT00015,P23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1361,1240,Single Liquid_1,1,2,HT00015,B23,HT00015,B23,10,Not enough liquid detected in tip 1 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1362,1240,Single Liquid_1,2,2,HT00015,D23,HT00015,D23,10,Not enough liquid detected in tip 2 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1363,1240,Single Liquid_1,3,2,HT00015,F23,HT00015,F23,10,Not enough liquid detected in tip 3 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1364,1240,Single Liquid_1,4,2,HT00015,H23,HT00015,H23,10,Not enough liquid detected in tip 4 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1365,1240,Single Liquid_1,5,2,HT00015,J23,HT00015,J23,10,Not enough liquid detected in tip 5 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1366,1240,Single Liquid_1,6,2,HT00015,L23,HT00015,L23,10,Not enough liquid detected in tip 6 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1367,1240,Single Liquid_1,7,2,HT00015,N23,HT00015,N23,10,Not enough liquid detected in tip 7 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1368,1240,Single Liquid_1,8,2,HT00015,P23,HT00015,P23,10,Not enough liquid detected in tip 8 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1377,1243,Single Liquid_1,1,2,HT00015,B23,HT00015,B23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1378,1243,Single Liquid_1,2,2,HT00015,D23,HT00015,D23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1379,1243,Single Liquid_1,3,2,HT00015,F23,HT00015,F23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1380,1243,Single Liquid_1,4,2,HT00015,H23,HT00015,H23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1381,1243,Single Liquid_1,5,2,HT00015,J23,HT00015,J23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1382,1243,Single Liquid_1,6,2,HT00015,L23,HT00015,L23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1383,1243,Single Liquid_1,7,2,HT00015,N23,HT00015,N23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1384,1243,Single Liquid_1,8,2,HT00015,P23,HT00015,P23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1393,1246,Single Liquid_1,1,2,HT00015,B23,HT00015,B23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1394,1246,Single Liquid_1,2,2,HT00015,D23,HT00015,D23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1395,1246,Single Liquid_1,3,2,HT00015,F23,HT00015,F23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1396,1246,Single Liquid_1,4,2,HT00015,H23,HT00015,H23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1397,1246,Single Liquid_1,5,2,HT00015,J23,HT00015,J23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1398,1246,Single Liquid_1,6,2,HT00015,L23,HT00015,L23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1399,1246,Single Liquid_1,7,2,HT00015,N23,HT00015,N23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1400,1246,Single Liquid_1,8,2,HT00015,P23,HT00015,P23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1409,1250,Single Liquid_1,1,2,HT00015,B23,HT00015,B23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1410,1250,Single Liquid_1,2,2,HT00015,D23,HT00015,D23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1411,1250,Single Liquid_1,3,2,HT00015,F23,HT00015,F23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1412,1250,Single Liquid_1,4,2,HT00015,H23,HT00015,H23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1413,1250,Single Liquid_1,5,2,HT00015,J23,HT00015,J23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1414,1250,Single Liquid_1,6,2,HT00015,L23,HT00015,L23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1415,1250,Single Liquid_1,7,2,HT00015,N23,HT00015,N23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1416,1250,Single Liquid_1,8,2,HT00015,P23,HT00015,P23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1473,1336,Single Liquid_1,1,3,HT00015,A24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1475,1336,Single Liquid_1,2,3,HT00015,C24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1477,1336,Single Liquid_1,3,3,HT00015,E24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1479,1336,Single Liquid_1,4,3,HT00015,G24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1481,1336,Single Liquid_1,5,3,HT00015,I24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1483,1336,Single Liquid_1,6,3,HT00015,K24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1485,1336,Single Liquid_1,7,3,HT00015,M24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1487,1336,Single Liquid_1,8,3,HT00015,O24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1505,1350,Single Liquid_1,1,3,HT00015,A24,HT00015,A24,10,Not enough liquid detected in tip 1 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1506,1350,Single Liquid_1,2,3,HT00015,C24,HT00015,C24,10,Not enough liquid detected in tip 2 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1507,1350,Single Liquid_1,3,3,HT00015,E24,HT00015,E24,10,Not enough liquid detected in tip 3 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1508,1350,Single Liquid_1,4,3,HT00015,G24,HT00015,G24,10,Not enough liquid detected in tip 4 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1509,1350,Single Liquid_1,5,3,HT00015,I24,HT00015,I24,10,Not enough liquid detected in tip 5 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1510,1350,Single Liquid_1,6,3,HT00015,K24,HT00015,K24,10,Not enough liquid detected in tip 6 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1511,1350,Single Liquid_1,7,3,HT00015,M24,HT00015,M24,10,Not enough liquid detected in tip 7 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1512,1350,Single Liquid_1,8,3,HT00015,O24,HT00015,O24,10,Not enough liquid detected in tip 8 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1521,1353,Single Liquid_1,1,3,HT00015,A24,HT00015,A24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1522,1353,Single Liquid_1,2,3,HT00015,C24,HT00015,C24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1523,1353,Single Liquid_1,3,3,HT00015,E24,HT00015,E24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1524,1353,Single Liquid_1,4,3,HT00015,G24,HT00015,G24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1525,1353,Single Liquid_1,5,3,HT00015,I24,HT00015,I24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1526,1353,Single Liquid_1,6,3,HT00015,K24,HT00015,K24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1527,1353,Single Liquid_1,7,3,HT00015,M24,HT00015,M24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1528,1353,Single Liquid_1,8,3,HT00015,O24,HT00015,O24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1537,1357,Single Liquid_1,1,3,HT00015,A24,HT00015,A24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1538,1357,Single Liquid_1,2,3,HT00015,C24,HT00015,C24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1539,1357,Single Liquid_1,3,3,HT00015,E24,HT00015,E24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1540,1357,Single Liquid_1,4,3,HT00015,G24,HT00015,G24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1541,1357,Single Liquid_1,5,3,HT00015,I24,HT00015,I24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1542,1357,Single Liquid_1,6,3,HT00015,K24,HT00015,K24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1543,1357,Single Liquid_1,7,3,HT00015,M24,HT00015,M24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1544,1357,Single Liquid_1,8,3,HT00015,O24,HT00015,O24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1553,1360,Single Liquid_1,1,3,HT00015,A24,HT00015,A24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1554,1360,Single Liquid_1,2,3,HT00015,C24,HT00015,C24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1555,1360,Single Liquid_1,3,3,HT00015,E24,HT00015,E24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1556,1360,Single Liquid_1,4,3,HT00015,G24,HT00015,G24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1557,1360,Single Liquid_1,5,3,HT00015,I24,HT00015,I24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1558,1360,Single Liquid_1,6,3,HT00015,K24,HT00015,K24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1559,1360,Single Liquid_1,7,3,HT00015,M24,HT00015,M24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1560,1360,Single Liquid_1,8,3,HT00015,O24,HT00015,O24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1617,1444,Single Liquid_1,1,4,HT00015,B24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1619,1444,Single Liquid_1,2,4,HT00015,D24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1621,1444,Single Liquid_1,3,4,HT00015,F24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1623,1444,Single Liquid_1,4,4,HT00015,H24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1625,1444,Single Liquid_1,5,4,HT00015,J24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1627,1444,Single Liquid_1,6,4,HT00015,L24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1629,1444,Single Liquid_1,7,4,HT00015,N24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1631,1444,Single Liquid_1,8,4,HT00015,P24,siRNA_Control_Plate_001,D1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1649,1460,Single Liquid_1,1,4,HT00015,B24,HT00015,B24,10,Not enough liquid detected in tip 1 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1650,1460,Single Liquid_1,2,4,HT00015,D24,HT00015,D24,10,Not enough liquid detected in tip 2 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1651,1460,Single Liquid_1,3,4,HT00015,F24,HT00015,F24,10,Not enough liquid detected in tip 3 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1652,1460,Single Liquid_1,4,4,HT00015,H24,HT00015,H24,10,Not enough liquid detected in tip 4 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1653,1460,Single Liquid_1,5,4,HT00015,J24,HT00015,J24,10,Not enough liquid detected in tip 5 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1654,1460,Single Liquid_1,6,4,HT00015,L24,HT00015,L24,10,Not enough liquid detected in tip 6 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1655,1460,Single Liquid_1,7,4,HT00015,N24,HT00015,N24,10,Not enough liquid detected in tip 7 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1656,1460,Single Liquid_1,8,4,HT00015,P24,HT00015,P24,10,Not enough liquid detected in tip 8 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1665,1463,Single Liquid_1,1,4,HT00015,B24,HT00015,B24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1666,1463,Single Liquid_1,2,4,HT00015,D24,HT00015,D24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1667,1463,Single Liquid_1,3,4,HT00015,F24,HT00015,F24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1668,1463,Single Liquid_1,4,4,HT00015,H24,HT00015,H24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1669,1463,Single Liquid_1,5,4,HT00015,J24,HT00015,J24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1670,1463,Single Liquid_1,6,4,HT00015,L24,HT00015,L24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1671,1463,Single Liquid_1,7,4,HT00015,N24,HT00015,N24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1672,1463,Single Liquid_1,8,4,HT00015,P24,HT00015,P24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1681,1467,Single Liquid_1,1,4,HT00015,B24,HT00015,B24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1682,1467,Single Liquid_1,2,4,HT00015,D24,HT00015,D24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1683,1467,Single Liquid_1,3,4,HT00015,F24,HT00015,F24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1684,1467,Single Liquid_1,4,4,HT00015,H24,HT00015,H24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1685,1467,Single Liquid_1,5,4,HT00015,J24,HT00015,J24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1686,1467,Single Liquid_1,6,4,HT00015,L24,HT00015,L24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1687,1467,Single Liquid_1,7,4,HT00015,N24,HT00015,N24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1688,1467,Single Liquid_1,8,4,HT00015,P24,HT00015,P24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1697,1471,Single Liquid_1,1,4,HT00015,B24,HT00015,B24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1698,1471,Single Liquid_1,2,4,HT00015,D24,HT00015,D24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1699,1471,Single Liquid_1,3,4,HT00015,F24,HT00015,F24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1700,1471,Single Liquid_1,4,4,HT00015,H24,HT00015,H24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1701,1471,Single Liquid_1,5,4,HT00015,J24,HT00015,J24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1702,1471,Single Liquid_1,6,4,HT00015,L24,HT00015,L24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1703,1471,Single Liquid_1,7,4,HT00015,N24,HT00015,N24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1704,1471,Single Liquid_1,8,4,HT00015,P24,HT00015,P24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1761,1593,Single Liquid_1,1,1,HT00018,A23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1763,1593,Single Liquid_1,2,1,HT00018,C23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1765,1593,Single Liquid_1,3,1,HT00018,E23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1767,1593,Single Liquid_1,4,1,HT00018,G23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1769,1593,Single Liquid_1,5,1,HT00018,I23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1771,1593,Single Liquid_1,6,1,HT00018,K23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1773,1593,Single Liquid_1,7,1,HT00018,M23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1775,1593,Single Liquid_1,8,1,HT00018,O23,siRNA_Control_Plate_001,A1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1793,1623,Single Liquid_1,1,1,HT00018,A23,HT00018,A23,10,Not enough liquid detected in tip 1 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1794,1623,Single Liquid_1,2,1,HT00018,C23,HT00018,C23,10,Not enough liquid detected in tip 2 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1795,1623,Single Liquid_1,3,1,HT00018,E23,HT00018,E23,10,Not enough liquid detected in tip 3 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1796,1623,Single Liquid_1,4,1,HT00018,G23,HT00018,G23,10,Not enough liquid detected in tip 4 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1797,1623,Single Liquid_1,5,1,HT00018,I23,HT00018,I23,10,Not enough liquid detected in tip 5 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1798,1623,Single Liquid_1,6,1,HT00018,K23,HT00018,K23,10,Not enough liquid detected in tip 6 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1799,1623,Single Liquid_1,7,1,HT00018,M23,HT00018,M23,10,Not enough liquid detected in tip 7 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1800,1623,Single Liquid_1,8,1,HT00018,O23,HT00018,O23,10,Not enough liquid detected in tip 8 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1809,1626,Single Liquid_1,1,1,HT00018,A23,HT00018,A23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1810,1626,Single Liquid_1,2,1,HT00018,C23,HT00018,C23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1811,1626,Single Liquid_1,3,1,HT00018,E23,HT00018,E23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1812,1626,Single Liquid_1,4,1,HT00018,G23,HT00018,G23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1813,1626,Single Liquid_1,5,1,HT00018,I23,HT00018,I23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1814,1626,Single Liquid_1,6,1,HT00018,K23,HT00018,K23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1815,1626,Single Liquid_1,7,1,HT00018,M23,HT00018,M23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1816,1626,Single Liquid_1,8,1,HT00018,O23,HT00018,O23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1825,1630,Single Liquid_1,1,1,HT00018,A23,HT00018,A23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1826,1630,Single Liquid_1,2,1,HT00018,C23,HT00018,C23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1827,1630,Single Liquid_1,3,1,HT00018,E23,HT00018,E23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1828,1630,Single Liquid_1,4,1,HT00018,G23,HT00018,G23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1829,1630,Single Liquid_1,5,1,HT00018,I23,HT00018,I23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1830,1630,Single Liquid_1,6,1,HT00018,K23,HT00018,K23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1831,1630,Single Liquid_1,7,1,HT00018,M23,HT00018,M23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1832,1630,Single Liquid_1,8,1,HT00018,O23,HT00018,O23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1841,1634,Single Liquid_1,1,1,HT00018,A23,HT00018,A23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1842,1634,Single Liquid_1,2,1,HT00018,C23,HT00018,C23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1843,1634,Single Liquid_1,3,1,HT00018,E23,HT00018,E23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1844,1634,Single Liquid_1,4,1,HT00018,G23,HT00018,G23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1845,1634,Single Liquid_1,5,1,HT00018,I23,HT00018,I23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1846,1634,Single Liquid_1,6,1,HT00018,K23,HT00018,K23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1847,1634,Single Liquid_1,7,1,HT00018,M23,HT00018,M23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1848,1634,Single Liquid_1,8,1,HT00018,O23,HT00018,O23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1905,1718,Single Liquid_1,1,2,HT00018,B23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1907,1718,Single Liquid_1,2,2,HT00018,D23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1909,1718,Single Liquid_1,3,2,HT00018,F23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1911,1718,Single Liquid_1,4,2,HT00018,H23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1913,1718,Single Liquid_1,5,2,HT00018,J23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1915,1718,Single Liquid_1,6,2,HT00018,L23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1917,1718,Single Liquid_1,7,2,HT00018,N23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1919,1718,Single Liquid_1,8,2,HT00018,P23,siRNA_Control_Plate_001,B1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1937,1770,Single Liquid_1,1,2,HT00018,B23,HT00018,B23,10,Not enough liquid detected in tip 1 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1938,1770,Single Liquid_1,2,2,HT00018,D23,HT00018,D23,10,Not enough liquid detected in tip 2 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1939,1770,Single Liquid_1,3,2,HT00018,F23,HT00018,F23,10,Not enough liquid detected in tip 3 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1940,1770,Single Liquid_1,4,2,HT00018,H23,HT00018,H23,10,Not enough liquid detected in tip 4 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1941,1770,Single Liquid_1,5,2,HT00018,J23,HT00018,J23,10,Not enough liquid detected in tip 5 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1942,1770,Single Liquid_1,6,2,HT00018,L23,HT00018,L23,10,Not enough liquid detected in tip 6 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1943,1770,Single Liquid_1,7,2,HT00018,N23,HT00018,N23,10,Not enough liquid detected in tip 7 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1944,1770,Single Liquid_1,8,2,HT00018,P23,HT00018,P23,10,Not enough liquid detected in tip 8 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1953,1773,Single Liquid_1,1,2,HT00018,B23,HT00018,B23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1954,1773,Single Liquid_1,2,2,HT00018,D23,HT00018,D23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1955,1773,Single Liquid_1,3,2,HT00018,F23,HT00018,F23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1956,1773,Single Liquid_1,4,2,HT00018,H23,HT00018,H23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1957,1773,Single Liquid_1,5,2,HT00018,J23,HT00018,J23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1958,1773,Single Liquid_1,6,2,HT00018,L23,HT00018,L23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1959,1773,Single Liquid_1,7,2,HT00018,N23,HT00018,N23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1960,1773,Single Liquid_1,8,2,HT00018,P23,HT00018,P23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1969,1777,Single Liquid_1,1,2,HT00018,B23,HT00018,B23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1970,1777,Single Liquid_1,2,2,HT00018,D23,HT00018,D23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1971,1777,Single Liquid_1,3,2,HT00018,F23,HT00018,F23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1972,1777,Single Liquid_1,4,2,HT00018,H23,HT00018,H23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1973,1777,Single Liquid_1,5,2,HT00018,J23,HT00018,J23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1974,1777,Single Liquid_1,6,2,HT00018,L23,HT00018,L23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1975,1777,Single Liquid_1,7,2,HT00018,N23,HT00018,N23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1976,1777,Single Liquid_1,8,2,HT00018,P23,HT00018,P23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1985,1781,Single Liquid_1,1,2,HT00018,B23,HT00018,B23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1986,1781,Single Liquid_1,2,2,HT00018,D23,HT00018,D23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1987,1781,Single Liquid_1,3,2,HT00018,F23,HT00018,F23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1988,1781,Single Liquid_1,4,2,HT00018,H23,HT00018,H23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1989,1781,Single Liquid_1,5,2,HT00018,J23,HT00018,J23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1990,1781,Single Liquid_1,6,2,HT00018,L23,HT00018,L23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1991,1781,Single Liquid_1,7,2,HT00018,N23,HT00018,N23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,1992,1781,Single Liquid_1,8,2,HT00018,P23,HT00018,P23,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2049,1865,Single Liquid_1,1,3,HT00018,A24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2051,1865,Single Liquid_1,2,3,HT00018,C24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2053,1865,Single Liquid_1,3,3,HT00018,E24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2055,1865,Single Liquid_1,4,3,HT00018,G24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2057,1865,Single Liquid_1,5,3,HT00018,I24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2059,1865,Single Liquid_1,6,3,HT00018,K24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2061,1865,Single Liquid_1,7,3,HT00018,M24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2063,1865,Single Liquid_1,8,3,HT00018,O24,siRNA_Control_Plate_001,C1,2.4,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2081,1884,Single Liquid_1,1,3,HT00018,A24,HT00018,A24,10,Not enough liquid detected in tip 1 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2082,1884,Single Liquid_1,2,3,HT00018,C24,HT00018,C24,10,Not enough liquid detected in tip 2 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2083,1884,Single Liquid_1,3,3,HT00018,E24,HT00018,E24,10,Not enough liquid detected in tip 3 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2084,1884,Single Liquid_1,4,3,HT00018,G24,HT00018,G24,10,Not enough liquid detected in tip 4 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2085,1884,Single Liquid_1,5,3,HT00018,I24,HT00018,I24,10,Not enough liquid detected in tip 5 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2086,1884,Single Liquid_1,6,3,HT00018,K24,HT00018,K24,10,Not enough liquid detected in tip 6 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2087,1884,Single Liquid_1,7,3,HT00018,M24,HT00018,M24,10,Not enough liquid detected in tip 7 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2088,1884,Single Liquid_1,8,3,HT00018,O24,HT00018,O24,10,Not enough liquid detected in tip 8 to complete operation.    ,Go to Bottom
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2097,1888,Single Liquid_1,1,3,HT00018,A24,HT00018,A24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2098,1888,Single Liquid_1,2,3,HT00018,C24,HT00018,C24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2099,1888,Single Liquid_1,3,3,HT00018,E24,HT00018,E24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2100,1888,Single Liquid_1,4,3,HT00018,G24,HT00018,G24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2101,1888,Single Liquid_1,5,3,HT00018,I24,HT00018,I24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2102,1888,Single Liquid_1,6,3,HT00018,K24,HT00018,K24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2103,1888,Single Liquid_1,7,3,HT00018,M24,HT00018,M24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2104,1888,Single Liquid_1,8,3,HT00018,O24,HT00018,O24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2113,1891,Single Liquid_1,1,3,HT00018,A24,HT00018,A24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2114,1891,Single Liquid_1,2,3,HT00018,C24,HT00018,C24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2115,1891,Single Liquid_1,3,3,HT00018,E24,HT00018,E24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2116,1891,Single Liquid_1,4,3,HT00018,G24,HT00018,G24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2117,1891,Single Liquid_1,5,3,HT00018,I24,HT00018,I24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2118,1891,Single Liquid_1,6,3,HT00018,K24,HT00018,K24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2119,1891,Single Liquid_1,7,3,HT00018,M24,HT00018,M24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2120,1891,Single Liquid_1,8,3,HT00018,O24,HT00018,O24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2129,1895,Single Liquid_1,1,3,HT00018,A24,HT00018,A24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2130,1895,Single Liquid_1,2,3,HT00018,C24,HT00018,C24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2131,1895,Single Liquid_1,3,3,HT00018,E24,HT00018,E24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2132,1895,Single Liquid_1,4,3,HT00018,G24,HT00018,G24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2133,1895,Single Liquid_1,5,3,HT00018,I24,HT00018,I24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2134,1895,Single Liquid_1,6,3,HT00018,K24,HT00018,K24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2135,1895,Single Liquid_1,7,3,HT00018,M24,HT00018,M24,10,,
+JANUS,784,STEP3B_ADD_Cntrls_on_Daughter_Plate.pro,11/18/2016 12:33:06 PM,2136,1895,Single Liquid_1,8,3,HT00018,O24,HT00018,O24,10,,
