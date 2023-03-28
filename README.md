@@ -1,6 +1,6 @@
 # mistelilab-nucleus-size-shape-screen
 
-This is a repo containing the R code used to generate the RNAi screen results included in the pre-print manuscript from the Misteli Lab at the National Cancer Institute/NIH. The R code heavily uses the [cellHTS2 package](https://www.bioconductor.org/packages/release/bioc/html/cellHTS2.html).
+This is a repo containing the R code used to generate the RNAi screen results included in the [biorXiv pre-print manuscript](https://www.biorxiv.org/content/10.1101/2022.05.28.493845v1) from the Misteli Lab at the National Cancer Institute/NIH. The R code heavily uses the [cellHTS2 package](https://www.bioconductor.org/packages/release/bioc/html/cellHTS2.html).
 
 **Title:** Identification of epigenetic modulators as determinants of nuclear size and shape
 
